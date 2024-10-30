@@ -1,0 +1,15 @@
+.btl_table { font-size:11px;}
+.btl_table th {
+color:#555555; background:#CCCCCC url(th_bg.gif);text-shadow:0 1px 0 #fff; z-index:999; -khtml-border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px;line-height:23px;
+}
+.btl_table td { padding: 2px 0 0 0;line-height:23px; }
+.btl_table td a {color:#666666; text-decoration:none}
+.btl_table td a:hover {text-decoration:underline}
+.row1 {background:#f4f4f4;}
+.row2 {background:#F8F8F8;}
+.plugin {float:right; font-size:10px;}
+.plugin a {color:#666666; text-decoration:none;}
+.plugin a:hover {text-decoration:underline;}
+.addblog { font-size:11px; }
+.addblog a{ color:#666666; text-decoration:none; }
+.addblog a:hover {text-decoration:underline;}
